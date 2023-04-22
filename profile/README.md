@@ -20,10 +20,10 @@ By the end of this course, students should be able to:
 8. Analyze the computation and storage complexity of algorithms by employing the substitution method, the Master theorem, and recursion trees.
 9. Explain proofs related to algorithm correctness and write a simple proof using loop invariants.
 
-## Student Participation (TO BE UPDATED)
-Prior to the lectures and recitations, students must watch and complete the required video and readings for the module. This course will assume students have watched the required materials, which are meant to take 1-2 hours to complete. 
+## Student Participation
+This course has a combination of videos, assignments, and team meetings. Teams will be assigned week 2, and students will be expected to meet with their team for once a week based on a time they arrange as a team. Students will be expected to participate in the team meetings, and will be expected to contribute to the team's work.
 
-In general, not including time spent in class, you should be prepared to spend 3-4 hours per credit hour for this course. This means that you should plan on spending a minimum of 12-16 hours per week on this course. 16 hours is a rough average of 2.2 hours per day, every day of the week. Many students find this course takes about 20 hours/week to successfully complete. 20 hours a week is a rough average of 3 hours per day, every day of the week. Some students may spend more time than that on certain weeks. Time-on-task also does not always translate to work accomplished; if you find you are spending more time than this on the course, talk to the TAs about how to make your work and study time more efficient. 
+In general, not including time spent interacting with videos, you should be prepared to spend 3-4 hours per credit hour for this course. This means that you should plan on spending a minimum of 12-16 hours per week on this course. 16 hours is a rough average of 2.2 hours per day, every day of the week. Many students find this course takes about 20 hours/week to successfully complete. 20 hours a week is a rough average of 3 hours per day, every day of the week. Some students may spend more time than that on certain weeks. Time-on-task also does not always translate to work accomplished; if you find you are spending more time than this on the course, talk to the TAs about how to make your work and study time more efficient. 
 
 Please plan ahead! It can be hard to estimate when you might get stuck, so make sure to have extra slack time in your schedule to accommodate tricky problems or new concepts that are harder than you except. Sometimes a problem comes along that you really need to sleep on. Finish your work as early as you can, so that when problems come up that require extra time, you have that time to spend. 
 
@@ -34,16 +34,13 @@ Please plan ahead! It can be hard to estimate when you might get stuck, so make 
 2. Students come to class prepared and having engaged with the online course materials.
 3. Students are to actively participate in course activities and discussion.
 4. Any issues that arise should be communicated to the appropriate faculty or staff member proactively.
-5. All course interaction including instruction, teamwork, TA advising, and course activities are to be done in English.
+5. All course interaction including instruction, TA advising, and course activities are to be done in English.
 6. Students should come in to classroom with the goal of learning and have a "[growth mindset](https://fs.blog/carol-dweck-mindset/)".
 
 
-### Flipped Format (TO BE UPDATED)
-To be successful in this course, you must come to any in-person sessions prepared. Failure to do so will not only hurt your own learning, it will hurt the learning environment of those around you!
-
 ## Assessment
 
-Course Assignments will be broken down into categories that can be found on the Assignments page of the course canvas shell. There you will find percentages of each category, along with policies for individual categories such as dropping the lowest grade or not. 
+Course Assignments will be broken down into categories that can be found on the Assignments page of the course canvas shell. There you will find percentages of each category, along with policies for individual categories such as dropping the lowest grade or not. In general if we are dropping the lowest grades in a category, we will NOT drop the last assignment of the category (as it is essentially the culmination of all the other assignments).
 
 In general assignments are either formative or summative. Formative assignments document your learning process, and there are often ways they can be redone showing that you learned the material. Summative assignments are your opportunity to demonstrate what you know, and are show your ability level on the topic. Summative assignments are often time restricted and have limited attempts.
 
@@ -56,7 +53,7 @@ Please note:
 
 ### Late/Make-Up Policy
 
-For on-campus students, most lecture and lab activities will be expected to be done **in class**, and as such, making up those activities may be limited based on the assignment. Homework activities will have a **Due Date** and **Available Until** date. The due date is the expected due date for the item. The available by date is a no questions asked late window (usually 3 days). This is to take into account different learning rates, standard accommodations, and sometimes we all need accommodation because of life. After the *available until* date is a hard cutoff, no exceptions (even if your internet goes down!). Why? Because the due date had already happened. Issues like internet going down, your dog ate your homework, etc are meant to be handled by the extra window already! For documented *extraordinary* circumstances (being hospitalized multiple days, etc), we will consider additional accommodations. 
+Homework activities will have a **Due Date** and **Available Until** date. The due date is the expected due date for the item. The available by date is a no questions asked late window. This is to take into account different learning rates, standard accommodations, and sometimes we all need accommodation because of life. After the *available until* date is a hard cutoff, no exceptions (even if your internet goes down!). **Why? Because the due date had already happened.** Issues like internet going down, your dog ate your homework, etc are meant to be handled by the extra window already! For documented *extraordinary* circumstances (being hospitalized multiple days, etc), we will consider additional accommodations. 
 
 ### Tier Mastery Grading (Formative)
 
@@ -69,7 +66,7 @@ Most formative assignments focus on Tier Mastery. Meaning the assignment is grad
 
 Tests are then placed in those groups with increasing difficulty. If at any point you *fail* to pass all the tests in a group, grading *immediately* stops. However, you will be encouraged (and expected) to resubmit your assignment to eventually work your way through Mastery (ideally exceeds)!
 
-Auto-graded assignments will have the opportunity from the day they are released, so you can check in regularly. Some assignments have a mix of auto-grading and hand-grading, in which case, it will often take a week for us to give feedback for the assignment to be redone.
+Auto-graded assignments will have the opportunity from the day they are released, so you can check in regularly. Some assignments have a mix of auto-grading and hand-grading, in which case, it will often take a week for us to give feedback for the assignment to be redone. This means you are limited on manually graded assignments just based on realistic time constraints.
 
 The goal with this type of grading is to give you goals that you can hit, and to let you focus on redoing work to make sure you get it done correctly. It provides an extreme level of flexibility, but it also means there isn't any "squeezing by" on your grade. 
 
@@ -149,8 +146,8 @@ Working in environments such as slack, discord, or MS teams is expected for most
 
 ## General Policies
 
-### 5.2 Digital Etiquette (netiquette)
-For much of what we do, even as face-to-face interactions become possible again, a primary form of communication in the modern world, especially in CS, is the written word. Because this means you are missing body language cues and immediate feedback from your ”listener”, it is very important to understand some common rules for good online etiquette: (adapted slightly from [7 Rules for Online Etiquette](https://achievevirtual.org/7-rules-for-online-etiquette/))
+### Digital Etiquette (netiquette)
+For much of what we do, even as face-to-face interactions become possible again, a primary form of communication in the modern world, especially in CS, is the written word. Because this means you are missing body language cues and immediate feedback from your "listener", it is very important to understand some common rules for good online etiquette: (adapted slightly from [7 Rules for Online Etiquette](https://achievevirtual.org/7-rules-for-online-etiquette/))
 
 1. **Be respectful.** While it is easier to say hurtful or disrespectful things without standing face-to-face with someone, it is important to remember that your classmates and instructors are real people who are affected by the words you say and write. It is essential to keep in mind the feelings and opinions of others.  If you wouldn’t say it to someone’s face, you shouldn’t say it online either.
 2. **Be aware of strong language, all caps, and exclamation points.** It is easy for written text to be misread and misunderstood. Have you ever sent a text message with good intention but your recipient thought you were being rude? If so, then you’ve experienced this firsthand. By being aware of strong language, you can identify potential confusions before sending messages. Tip: Read everything out loud before you send it.
