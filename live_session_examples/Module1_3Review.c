@@ -39,11 +39,11 @@ int * explore_arrays(int size) {
     return arr;
 }
 
-int * explore_arrays2() {
+/*int * explore_arrays2() {
     int array[] = {0, 1, 2, 3, 4, 5};
 
     return &array;
-}
+}*/
 
 
 void pointer_games2(int ** array) {
